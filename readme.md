@@ -9,7 +9,7 @@ This may serve as a useful reference for people starting on a similar self-study
 
 Why comprehensiveness is important: knowing the full scope of topics that you'd need to learn helps in addressing mental inertia when you start. You could, like me, be overwhelmed when you ask friends what topics you'd need to learn (e.g. friend A says: queues, stacks, etc, but friend B said DFS, BFS, etc) or stumble across website teaching x topic (e.g singly linked-lists, but what about doubly-linked lists?) because there is a sense of infiniteness to the amount that you need to cover. With a comprehensive textbook, there is a bound to the amount of topics, and then you can start mapping a plan to cover relevant topics in finite time.
 
-Why rigor is important: you get a thorough and technically sound explanation on why things work, which always help when generalizing to novel situations.
+Why rigor is important: you get a thorough and technically sound explanation on why things work, which always helps when generalizing to novel situations.
 
 Of course, going through theory is never enough - it needs to be paired with practical coding, which I've done by implementation in C++. And finally, they need to be supplemented with encounters in new situations, which is where LeetCode and HackerRank comes in.
 
